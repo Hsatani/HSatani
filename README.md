@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, Welcome to the Page </h1>
+<h1 align="center">Hi 👋, Welcome to My Page </h1>
 <h1 align="center">My Self Hardik Satani </h1>
-<h3 align="center">An experienced and detail-oriented Software Test Engineer with a certified AWS Cloud practitioner currently located in Canada.</h3>
+<h3 align="center">An experienced and detail-oriented Software Test Engineer with an  AWS-certified Cloud practitioner currently located in Canada.</h3>
 
 - 📚 My job is to tell the truth. The truth about your software product. Sometimes this truth is very harsh. Would you like to know the truth?
 - 📫 Feel free to reach out at: satanihardik999@gmail.com
